@@ -2,9 +2,9 @@
 
 Mahasiswa Ilmu Komputer IPB
 
-*Jln. Wadas Raya No.61 Depok 16436*\
-*+62 812 8696 6421*\
-*theprivateeye27@gmail.com*
+*Jln. Wadas Raya No.61 Depok 16436*<br>
+*+62 812 8696 6421*<br>
+*theprivateeye27@gmail.com*<br>
 
 ## Pendidikan
 ### Institut Pertanian Bogor
